@@ -1,2 +1,2 @@
-# NASAPredictiveMaintenance
-MVP for the Nasa Dataset of Kaggle
+# NASA Predictive Maintenance MVP
+MVP for the NASA Dataset of Kaggle
